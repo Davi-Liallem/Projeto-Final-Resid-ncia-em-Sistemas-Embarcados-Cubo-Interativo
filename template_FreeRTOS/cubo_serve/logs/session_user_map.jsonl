@@ -1,0 +1,508 @@
+{"src_ip": "192.168.0.5", "session": 1, "user": "SEM_USER", "start_line": 2, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 1, "user": "SEM_USER", "start_line": 0, "stop_line": 6}
+{"src_ip": "192.168.0.5", "session": 2, "user": "SEM_USER", "start_line": 7, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 2, "user": "SEM_USER", "start_line": 0, "stop_line": 11}
+{"src_ip": "192.168.0.5", "session": 1, "user": "SEM_USER", "start_line": 13, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 1, "user": "SEM_USER", "start_line": 0, "stop_line": 17}
+{"src_ip": "192.168.0.5", "session": 2, "user": "SEM_USER", "start_line": 18, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 2, "user": "SEM_USER", "start_line": 0, "stop_line": 19}
+{"src_ip": "192.168.0.5", "session": 3, "user": "SEM_USER", "start_line": 20, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 3, "user": "SEM_USER", "start_line": 0, "stop_line": 22}
+{"src_ip": "192.168.0.5", "session": 4, "user": "SEM_USER", "start_line": 24, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 4, "user": "SEM_USER", "start_line": 0, "stop_line": 27}
+{"src_ip": "192.168.0.5", "session": 5, "user": "SEM_USER", "start_line": 28, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 5, "user": "SEM_USER", "start_line": 0, "stop_line": 31}
+{"src_ip": "192.168.0.5", "session": 1, "user": "SEM_USER", "start_line": 33, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 1, "user": "SEM_USER", "start_line": 0, "stop_line": 38}
+{"src_ip": "192.168.0.5", "session": 2, "user": "SEM_USER", "start_line": 39, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 2, "user": "SEM_USER", "start_line": 0, "stop_line": 40}
+{"src_ip": "192.168.0.5", "session": 3, "user": "SEM_USER", "start_line": 41, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 3, "user": "SEM_USER", "start_line": 0, "stop_line": 44}
+{"src_ip": "192.168.0.5", "session": 4, "user": "SEM_USER", "start_line": 45, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 4, "user": "SEM_USER", "start_line": 0, "stop_line": 49}
+{"src_ip": "192.168.0.5", "session": 5, "user": "SEM_USER", "start_line": 50, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 5, "user": "SEM_USER", "start_line": 0, "stop_line": 51}
+{"src_ip": "192.168.0.5", "session": 6, "user": "SEM_USER", "start_line": 52, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 6, "user": "SEM_USER", "start_line": 0, "stop_line": 56}
+{"src_ip": "192.168.0.5", "session": 7, "user": "SEM_USER", "start_line": 57, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 7, "user": "SEM_USER", "start_line": 0, "stop_line": 58}
+{"src_ip": "192.168.0.5", "session": 8, "user": "SEM_USER", "start_line": 59, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 8, "user": "SEM_USER", "start_line": 0, "stop_line": 61}
+{"src_ip": "192.168.0.5", "session": 1, "user": "SEM_USER", "start_line": 62, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 1, "user": "SEM_USER", "start_line": 0, "stop_line": 66}
+{"src_ip": "192.168.0.5", "session": 2, "user": "SEM_USER", "start_line": 67, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 2, "user": "SEM_USER", "start_line": 0, "stop_line": 68}
+{"src_ip": "192.168.0.5", "session": 3, "user": "SEM_USER", "start_line": 69, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 3, "user": "SEM_USER", "start_line": 0, "stop_line": 22}
+{"src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 24, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 0, "stop_line": 27}
+{"src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 28, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 0, "stop_line": 31}
+{"src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 33, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 0, "stop_line": 38}
+{"src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 39, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 0, "stop_line": 40}
+{"src_ip": "192.168.0.5", "session": 3, "user": "LARISSA", "start_line": 41, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 3, "user": "LARISSA", "start_line": 0, "stop_line": 44}
+{"src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 45, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 0, "stop_line": 49}
+{"src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 50, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 0, "stop_line": 51}
+{"src_ip": "192.168.0.5", "session": 6, "user": "LARISSA", "start_line": 52, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 6, "user": "LARISSA", "start_line": 0, "stop_line": 56}
+{"src_ip": "192.168.0.5", "session": 7, "user": "LARISSA", "start_line": 57, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 7, "user": "LARISSA", "start_line": 0, "stop_line": 58}
+{"src_ip": "192.168.0.5", "session": 8, "user": "LARISSA", "start_line": 59, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 8, "user": "LARISSA", "start_line": 0, "stop_line": 61}
+{"src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 62, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 0, "stop_line": 66}
+{"src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 67, "stop_line": 0}
+{"src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 0, "stop_line": 68}
+{"src_ip": "192.168.0.5", "session": 3, "user": "LARISSA", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 24, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 0, "stop_line": 27}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 28, "stop_line": 0}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 0, "stop_line": 31}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 33, "stop_line": 0}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 0, "stop_line": 38}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 39, "stop_line": 0}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 0, "stop_line": 40}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "LARISSA", "start_line": 41, "stop_line": 0}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "LARISSA", "start_line": 0, "stop_line": 44}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 45, "stop_line": 0}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 0, "stop_line": 49}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 50, "stop_line": 0}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 0, "stop_line": 51}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "LARISSA", "start_line": 52, "stop_line": 0}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "LARISSA", "start_line": 0, "stop_line": 56}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "LARISSA", "start_line": 57, "stop_line": 0}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "LARISSA", "start_line": 0, "stop_line": 58}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "LARISSA", "start_line": 59, "stop_line": 0}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "LARISSA", "start_line": 0, "stop_line": 61}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 62, "stop_line": 0}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 0, "stop_line": 66}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 67, "stop_line": 0}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 0, "stop_line": 68}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "LARISSA", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "LARISSA", "start_line": 0, "stop_line": 22}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 24, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 0, "stop_line": 27}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 28, "stop_line": 0}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 0, "stop_line": 31}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 33, "stop_line": 0}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 0, "stop_line": 38}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 39, "stop_line": 0}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 0, "stop_line": 40}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "LARISSA", "start_line": 41, "stop_line": 0}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "LARISSA", "start_line": 0, "stop_line": 44}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 45, "stop_line": 0}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "LARISSA", "start_line": 0, "stop_line": 49}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 50, "stop_line": 0}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "LARISSA", "start_line": 0, "stop_line": 51}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "LARISSA", "start_line": 52, "stop_line": 0}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "LARISSA", "start_line": 0, "stop_line": 56}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "LARISSA", "start_line": 57, "stop_line": 0}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "LARISSA", "start_line": 0, "stop_line": 58}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "LARISSA", "start_line": 59, "stop_line": 0}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "LARISSA", "start_line": 0, "stop_line": 61}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 62, "stop_line": 0}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "LARISSA", "start_line": 0, "stop_line": 66}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 67, "stop_line": 0}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "LARISSA", "start_line": 0, "stop_line": 68}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "LARISSA", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "LARISSA", "start_line": 0, "stop_line": 100}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "DAVI", "start_line": 2, "stop_line": 0}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "DAVI", "start_line": 0, "stop_line": 6}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "DAVI", "start_line": 7, "stop_line": 0}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "DAVI", "start_line": 0, "stop_line": 11}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "DAVI", "start_line": 13, "stop_line": 0}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "DAVI", "start_line": 0, "stop_line": 17}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "DAVI", "start_line": 18, "stop_line": 0}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "DAVI", "start_line": 0, "stop_line": 19}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "DAVI", "start_line": 20, "stop_line": 0}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "DAVI", "start_line": 0, "stop_line": 22}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "DAVI", "start_line": 24, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "DAVI", "start_line": 0, "stop_line": 27}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "DAVI", "start_line": 28, "stop_line": 0}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "DAVI", "start_line": 0, "stop_line": 31}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "DAVI", "start_line": 33, "stop_line": 0}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "DAVI", "start_line": 0, "stop_line": 38}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "DAVI", "start_line": 39, "stop_line": 0}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "DAVI", "start_line": 0, "stop_line": 40}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "DAVI", "start_line": 41, "stop_line": 0}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "DAVI", "start_line": 0, "stop_line": 44}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "DAVI", "start_line": 45, "stop_line": 0}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "DAVI", "start_line": 0, "stop_line": 49}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "DAVI", "start_line": 50, "stop_line": 0}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "DAVI", "start_line": 0, "stop_line": 51}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "DAVI", "start_line": 52, "stop_line": 0}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "DAVI", "start_line": 0, "stop_line": 56}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "DAVI", "start_line": 57, "stop_line": 0}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "DAVI", "start_line": 0, "stop_line": 58}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "DAVI", "start_line": 59, "stop_line": 0}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "DAVI", "start_line": 0, "stop_line": 61}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "DAVI", "start_line": 62, "stop_line": 0}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "DAVI", "start_line": 0, "stop_line": 66}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "DAVI", "start_line": 67, "stop_line": 0}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "DAVI", "start_line": 0, "stop_line": 68}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "DAVI", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "DAVI", "start_line": 0, "stop_line": 100}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 101, "stop_line": 0}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 0, "stop_line": 103}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 2, "stop_line": 0}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 6}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 7, "stop_line": 0}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 11}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 13, "stop_line": 0}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 17}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 18, "stop_line": 0}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 19}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 20, "stop_line": 0}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 0, "stop_line": 22}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 24, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 0, "stop_line": 27}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 28, "stop_line": 0}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 0, "stop_line": 31}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 33, "stop_line": 0}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 38}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 39, "stop_line": 0}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 40}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 41, "stop_line": 0}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 0, "stop_line": 44}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 45, "stop_line": 0}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 0, "stop_line": 49}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 50, "stop_line": 0}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 0, "stop_line": 51}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "TESTE", "start_line": 52, "stop_line": 0}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "TESTE", "start_line": 0, "stop_line": 56}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "TESTE", "start_line": 57, "stop_line": 0}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "TESTE", "start_line": 0, "stop_line": 58}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "TESTE", "start_line": 59, "stop_line": 0}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "TESTE", "start_line": 0, "stop_line": 61}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 62, "stop_line": 0}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 66}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 67, "stop_line": 0}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 68}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 0, "stop_line": 100}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 101, "stop_line": 0}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 0, "stop_line": 103}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 2, "stop_line": 0}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 6}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 7, "stop_line": 0}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 11}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 13, "stop_line": 0}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 17}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 18, "stop_line": 0}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 19}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 20, "stop_line": 0}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 0, "stop_line": 22}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 24, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 0, "stop_line": 27}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 28, "stop_line": 0}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 0, "stop_line": 31}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 33, "stop_line": 0}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 38}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 39, "stop_line": 0}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 40}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 41, "stop_line": 0}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 0, "stop_line": 44}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 45, "stop_line": 0}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 0, "stop_line": 49}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 50, "stop_line": 0}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 0, "stop_line": 51}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "TESTE", "start_line": 52, "stop_line": 0}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "TESTE", "start_line": 0, "stop_line": 56}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "TESTE", "start_line": 57, "stop_line": 0}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "TESTE", "start_line": 0, "stop_line": 58}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "TESTE", "start_line": 59, "stop_line": 0}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "TESTE", "start_line": 0, "stop_line": 61}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 62, "stop_line": 0}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 66}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 67, "stop_line": 0}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 68}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 0, "stop_line": 100}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 101, "stop_line": 0}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 0, "stop_line": 103}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 104, "stop_line": 0}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 0, "stop_line": 106}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 2, "stop_line": 0}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 6}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 7, "stop_line": 0}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 11}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 13, "stop_line": 0}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 17}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 18, "stop_line": 0}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 19}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 20, "stop_line": 0}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 0, "stop_line": 22}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 24, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 0, "stop_line": 27}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 28, "stop_line": 0}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 0, "stop_line": 31}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 33, "stop_line": 0}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 38}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 39, "stop_line": 0}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 40}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 41, "stop_line": 0}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 0, "stop_line": 44}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 45, "stop_line": 0}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 0, "stop_line": 49}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 50, "stop_line": 0}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 0, "stop_line": 51}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "TESTE", "start_line": 52, "stop_line": 0}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "TESTE", "start_line": 0, "stop_line": 56}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "TESTE", "start_line": 57, "stop_line": 0}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "TESTE", "start_line": 0, "stop_line": 58}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "TESTE", "start_line": 59, "stop_line": 0}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "TESTE", "start_line": 0, "stop_line": 61}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 62, "stop_line": 0}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "TESTE", "start_line": 0, "stop_line": 66}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 67, "stop_line": 0}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "TESTE", "start_line": 0, "stop_line": 68}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "TESTE", "start_line": 0, "stop_line": 100}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 101, "stop_line": 0}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "TESTE", "start_line": 0, "stop_line": 103}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 104, "stop_line": 0}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "TESTE", "start_line": 0, "stop_line": 106}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 107, "stop_line": 0}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 0, "stop_line": 109}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 2, "stop_line": 0}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 0, "stop_line": 6}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "GAEL", "start_line": 7, "stop_line": 0}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "GAEL", "start_line": 0, "stop_line": 11}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 13, "stop_line": 0}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 0, "stop_line": 17}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "GAEL", "start_line": 18, "stop_line": 0}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "GAEL", "start_line": 0, "stop_line": 19}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "GAEL", "start_line": 20, "stop_line": 0}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "GAEL", "start_line": 0, "stop_line": 22}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "GAEL", "start_line": 24, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "GAEL", "start_line": 0, "stop_line": 27}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "GAEL", "start_line": 28, "stop_line": 0}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "GAEL", "start_line": 0, "stop_line": 31}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 33, "stop_line": 0}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 0, "stop_line": 38}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "GAEL", "start_line": 39, "stop_line": 0}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "GAEL", "start_line": 0, "stop_line": 40}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "GAEL", "start_line": 41, "stop_line": 0}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "GAEL", "start_line": 0, "stop_line": 44}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "GAEL", "start_line": 45, "stop_line": 0}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "GAEL", "start_line": 0, "stop_line": 49}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "GAEL", "start_line": 50, "stop_line": 0}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "GAEL", "start_line": 0, "stop_line": 51}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "GAEL", "start_line": 52, "stop_line": 0}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "GAEL", "start_line": 0, "stop_line": 56}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "GAEL", "start_line": 57, "stop_line": 0}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "GAEL", "start_line": 0, "stop_line": 58}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "GAEL", "start_line": 59, "stop_line": 0}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "GAEL", "start_line": 0, "stop_line": 61}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 62, "stop_line": 0}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 0, "stop_line": 66}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "GAEL", "start_line": 67, "stop_line": 0}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "GAEL", "start_line": 0, "stop_line": 68}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "GAEL", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "GAEL", "start_line": 0, "stop_line": 100}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "GAEL", "start_line": 101, "stop_line": 0}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "GAEL", "start_line": 0, "stop_line": 103}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "GAEL", "start_line": 104, "stop_line": 0}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "GAEL", "start_line": 0, "stop_line": 106}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 107, "stop_line": 0}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "GAEL", "start_line": 0, "stop_line": 109}
+{"uid": "192.168.0.5|2|110", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 110, "stop_line": 0}
+{"uid": "192.168.0.5|2|110", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 0, "stop_line": 110}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "FRAN", "start_line": 2, "stop_line": 0}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "FRAN", "start_line": 0, "stop_line": 6}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 7, "stop_line": 0}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 0, "stop_line": 11}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "FRAN", "start_line": 13, "stop_line": 0}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "FRAN", "start_line": 0, "stop_line": 17}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 18, "stop_line": 0}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 0, "stop_line": 19}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "FRAN", "start_line": 20, "stop_line": 0}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "FRAN", "start_line": 0, "stop_line": 22}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "FRAN", "start_line": 24, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "FRAN", "start_line": 0, "stop_line": 27}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "FRAN", "start_line": 28, "stop_line": 0}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "FRAN", "start_line": 0, "stop_line": 31}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "FRAN", "start_line": 33, "stop_line": 0}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "FRAN", "start_line": 0, "stop_line": 38}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 39, "stop_line": 0}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 0, "stop_line": 40}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "FRAN", "start_line": 41, "stop_line": 0}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "FRAN", "start_line": 0, "stop_line": 44}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "FRAN", "start_line": 45, "stop_line": 0}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "FRAN", "start_line": 0, "stop_line": 49}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "FRAN", "start_line": 50, "stop_line": 0}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "FRAN", "start_line": 0, "stop_line": 51}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "FRAN", "start_line": 52, "stop_line": 0}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "FRAN", "start_line": 0, "stop_line": 56}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "FRAN", "start_line": 57, "stop_line": 0}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "FRAN", "start_line": 0, "stop_line": 58}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "FRAN", "start_line": 59, "stop_line": 0}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "FRAN", "start_line": 0, "stop_line": 61}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "FRAN", "start_line": 62, "stop_line": 0}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "FRAN", "start_line": 0, "stop_line": 66}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 67, "stop_line": 0}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 0, "stop_line": 68}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "FRAN", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "FRAN", "start_line": 0, "stop_line": 100}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "FRAN", "start_line": 101, "stop_line": 0}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "FRAN", "start_line": 0, "stop_line": 103}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "FRAN", "start_line": 104, "stop_line": 0}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "FRAN", "start_line": 0, "stop_line": 106}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "FRAN", "start_line": 107, "stop_line": 0}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "FRAN", "start_line": 0, "stop_line": 109}
+{"uid": "192.168.0.5|2|110", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 110, "stop_line": 0}
+{"uid": "192.168.0.5|2|110", "src_ip": "192.168.0.5", "session": 2, "user": "FRAN", "start_line": 0, "stop_line": 111}
+{"uid": "192.168.0.5|4|112", "src_ip": "192.168.0.5", "session": 4, "user": "JUNIOR", "start_line": 112, "stop_line": 0}
+{"uid": "192.168.0.5|4|112", "src_ip": "192.168.0.5", "session": 4, "user": "JUNIOR", "start_line": 0, "stop_line": 117}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "JUNIOR", "start_line": 2, "stop_line": 0}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "JUNIOR", "start_line": 0, "stop_line": 6}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "JUNIOR", "start_line": 7, "stop_line": 0}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "JUNIOR", "start_line": 0, "stop_line": 11}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "JUNIOR", "start_line": 13, "stop_line": 0}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "JUNIOR", "start_line": 0, "stop_line": 17}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "JUNIOR", "start_line": 18, "stop_line": 0}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "JUNIOR", "start_line": 0, "stop_line": 19}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "JUNIOR", "start_line": 20, "stop_line": 0}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "JUNIOR", "start_line": 0, "stop_line": 22}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "JUNIOR", "start_line": 24, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "JUNIOR", "start_line": 0, "stop_line": 27}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "JUNIOR", "start_line": 28, "stop_line": 0}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "JUNIOR", "start_line": 0, "stop_line": 31}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "JUNIOR", "start_line": 33, "stop_line": 0}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "JUNIOR", "start_line": 0, "stop_line": 38}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "JUNIOR", "start_line": 39, "stop_line": 0}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "JUNIOR", "start_line": 0, "stop_line": 40}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "JUNIOR", "start_line": 41, "stop_line": 0}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "JUNIOR", "start_line": 0, "stop_line": 44}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "JUNIOR", "start_line": 45, "stop_line": 0}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "JUNIOR", "start_line": 0, "stop_line": 49}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "JUNIOR", "start_line": 50, "stop_line": 0}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "JUNIOR", "start_line": 0, "stop_line": 51}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "JUNIOR", "start_line": 52, "stop_line": 0}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "JUNIOR", "start_line": 0, "stop_line": 56}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "JUNIOR", "start_line": 57, "stop_line": 0}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "JUNIOR", "start_line": 0, "stop_line": 58}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "JUNIOR", "start_line": 59, "stop_line": 0}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "JUNIOR", "start_line": 0, "stop_line": 61}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "JUNIOR", "start_line": 62, "stop_line": 0}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "JUNIOR", "start_line": 0, "stop_line": 66}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "JUNIOR", "start_line": 67, "stop_line": 0}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "JUNIOR", "start_line": 0, "stop_line": 68}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "JUNIOR", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "JUNIOR", "start_line": 0, "stop_line": 100}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "JUNIOR", "start_line": 101, "stop_line": 0}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "JUNIOR", "start_line": 0, "stop_line": 103}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "JUNIOR", "start_line": 104, "stop_line": 0}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "JUNIOR", "start_line": 0, "stop_line": 106}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "JUNIOR", "start_line": 107, "stop_line": 0}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "JUNIOR", "start_line": 0, "stop_line": 109}
+{"uid": "192.168.0.5|2|110", "src_ip": "192.168.0.5", "session": 2, "user": "JUNIOR", "start_line": 110, "stop_line": 0}
+{"uid": "192.168.0.5|2|110", "src_ip": "192.168.0.5", "session": 2, "user": "JUNIOR", "start_line": 0, "stop_line": 111}
+{"uid": "192.168.0.5|4|112", "src_ip": "192.168.0.5", "session": 4, "user": "JUNIOR", "start_line": 112, "stop_line": 0}
+{"uid": "192.168.0.5|4|112", "src_ip": "192.168.0.5", "session": 4, "user": "JUNIOR", "start_line": 0, "stop_line": 117}
+{"uid": "192.168.0.4|1|118", "src_ip": "192.168.0.4", "session": 1, "user": "Loy", "start_line": 118, "stop_line": 0}
+{"uid": "192.168.0.4|1|118", "src_ip": "192.168.0.4", "session": 1, "user": "Loy", "start_line": 0, "stop_line": 121}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "Loy", "start_line": 2, "stop_line": 0}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "Loy", "start_line": 0, "stop_line": 6}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "Loy", "start_line": 7, "stop_line": 0}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "Loy", "start_line": 0, "stop_line": 11}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "Loy", "start_line": 13, "stop_line": 0}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "Loy", "start_line": 0, "stop_line": 17}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "Loy", "start_line": 18, "stop_line": 0}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "Loy", "start_line": 0, "stop_line": 19}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "Loy", "start_line": 20, "stop_line": 0}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "Loy", "start_line": 0, "stop_line": 22}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "Loy", "start_line": 24, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "Loy", "start_line": 0, "stop_line": 27}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "Loy", "start_line": 28, "stop_line": 0}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "Loy", "start_line": 0, "stop_line": 31}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "Loy", "start_line": 33, "stop_line": 0}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "Loy", "start_line": 0, "stop_line": 38}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "Loy", "start_line": 39, "stop_line": 0}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "Loy", "start_line": 0, "stop_line": 40}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "Loy", "start_line": 41, "stop_line": 0}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "Loy", "start_line": 0, "stop_line": 44}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "Loy", "start_line": 45, "stop_line": 0}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "Loy", "start_line": 0, "stop_line": 49}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "Loy", "start_line": 50, "stop_line": 0}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "Loy", "start_line": 0, "stop_line": 51}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "Loy", "start_line": 52, "stop_line": 0}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "Loy", "start_line": 0, "stop_line": 56}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "Loy", "start_line": 57, "stop_line": 0}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "Loy", "start_line": 0, "stop_line": 58}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "Loy", "start_line": 59, "stop_line": 0}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "Loy", "start_line": 0, "stop_line": 61}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "Loy", "start_line": 62, "stop_line": 0}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "Loy", "start_line": 0, "stop_line": 66}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "Loy", "start_line": 67, "stop_line": 0}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "Loy", "start_line": 0, "stop_line": 68}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "Loy", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "Loy", "start_line": 0, "stop_line": 100}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "Loy", "start_line": 101, "stop_line": 0}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "Loy", "start_line": 0, "stop_line": 103}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "Loy", "start_line": 104, "stop_line": 0}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "Loy", "start_line": 0, "stop_line": 106}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "Loy", "start_line": 107, "stop_line": 0}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "Loy", "start_line": 0, "stop_line": 109}
+{"uid": "192.168.0.5|2|110", "src_ip": "192.168.0.5", "session": 2, "user": "Loy", "start_line": 110, "stop_line": 0}
+{"uid": "192.168.0.5|2|110", "src_ip": "192.168.0.5", "session": 2, "user": "Loy", "start_line": 0, "stop_line": 111}
+{"uid": "192.168.0.5|4|112", "src_ip": "192.168.0.5", "session": 4, "user": "Loy", "start_line": 112, "stop_line": 0}
+{"uid": "192.168.0.5|4|112", "src_ip": "192.168.0.5", "session": 4, "user": "Loy", "start_line": 0, "stop_line": 117}
+{"uid": "192.168.0.4|1|118", "src_ip": "192.168.0.4", "session": 1, "user": "Loy", "start_line": 118, "stop_line": 0}
+{"uid": "192.168.0.4|1|118", "src_ip": "192.168.0.4", "session": 1, "user": "Loy", "start_line": 0, "stop_line": 121}
+{"uid": "192.168.0.4|1|122", "src_ip": "192.168.0.4", "session": 1, "user": "Loyane", "start_line": 122, "stop_line": 0}
+{"uid": "192.168.0.4|1|122", "src_ip": "192.168.0.4", "session": 1, "user": "Loyane", "start_line": 0, "stop_line": 133}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "Loyane", "start_line": 2, "stop_line": 0}
+{"uid": "192.168.0.5|1|2", "src_ip": "192.168.0.5", "session": 1, "user": "Loyane", "start_line": 0, "stop_line": 6}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "Loyane", "start_line": 7, "stop_line": 0}
+{"uid": "192.168.0.5|2|7", "src_ip": "192.168.0.5", "session": 2, "user": "Loyane", "start_line": 0, "stop_line": 11}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "Loyane", "start_line": 13, "stop_line": 0}
+{"uid": "192.168.0.5|1|13", "src_ip": "192.168.0.5", "session": 1, "user": "Loyane", "start_line": 0, "stop_line": 17}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "Loyane", "start_line": 18, "stop_line": 0}
+{"uid": "192.168.0.5|2|18", "src_ip": "192.168.0.5", "session": 2, "user": "Loyane", "start_line": 0, "stop_line": 19}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "Loyane", "start_line": 20, "stop_line": 0}
+{"uid": "192.168.0.5|3|20", "src_ip": "192.168.0.5", "session": 3, "user": "Loyane", "start_line": 0, "stop_line": 22}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "Loyane", "start_line": 24, "stop_line": 0}
+{"uid": "192.168.0.5|4|24", "src_ip": "192.168.0.5", "session": 4, "user": "Loyane", "start_line": 0, "stop_line": 27}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "Loyane", "start_line": 28, "stop_line": 0}
+{"uid": "192.168.0.5|5|28", "src_ip": "192.168.0.5", "session": 5, "user": "Loyane", "start_line": 0, "stop_line": 31}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "Loyane", "start_line": 33, "stop_line": 0}
+{"uid": "192.168.0.5|1|33", "src_ip": "192.168.0.5", "session": 1, "user": "Loyane", "start_line": 0, "stop_line": 38}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "Loyane", "start_line": 39, "stop_line": 0}
+{"uid": "192.168.0.5|2|39", "src_ip": "192.168.0.5", "session": 2, "user": "Loyane", "start_line": 0, "stop_line": 40}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "Loyane", "start_line": 41, "stop_line": 0}
+{"uid": "192.168.0.5|3|41", "src_ip": "192.168.0.5", "session": 3, "user": "Loyane", "start_line": 0, "stop_line": 44}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "Loyane", "start_line": 45, "stop_line": 0}
+{"uid": "192.168.0.5|4|45", "src_ip": "192.168.0.5", "session": 4, "user": "Loyane", "start_line": 0, "stop_line": 49}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "Loyane", "start_line": 50, "stop_line": 0}
+{"uid": "192.168.0.5|5|50", "src_ip": "192.168.0.5", "session": 5, "user": "Loyane", "start_line": 0, "stop_line": 51}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "Loyane", "start_line": 52, "stop_line": 0}
+{"uid": "192.168.0.5|6|52", "src_ip": "192.168.0.5", "session": 6, "user": "Loyane", "start_line": 0, "stop_line": 56}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "Loyane", "start_line": 57, "stop_line": 0}
+{"uid": "192.168.0.5|7|57", "src_ip": "192.168.0.5", "session": 7, "user": "Loyane", "start_line": 0, "stop_line": 58}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "Loyane", "start_line": 59, "stop_line": 0}
+{"uid": "192.168.0.5|8|59", "src_ip": "192.168.0.5", "session": 8, "user": "Loyane", "start_line": 0, "stop_line": 61}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "Loyane", "start_line": 62, "stop_line": 0}
+{"uid": "192.168.0.5|1|62", "src_ip": "192.168.0.5", "session": 1, "user": "Loyane", "start_line": 0, "stop_line": 66}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "Loyane", "start_line": 67, "stop_line": 0}
+{"uid": "192.168.0.5|2|67", "src_ip": "192.168.0.5", "session": 2, "user": "Loyane", "start_line": 0, "stop_line": 68}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "Loyane", "start_line": 69, "stop_line": 0}
+{"uid": "192.168.0.5|3|69", "src_ip": "192.168.0.5", "session": 3, "user": "Loyane", "start_line": 0, "stop_line": 100}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "Loyane", "start_line": 101, "stop_line": 0}
+{"uid": "192.168.0.5|4|101", "src_ip": "192.168.0.5", "session": 4, "user": "Loyane", "start_line": 0, "stop_line": 103}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "Loyane", "start_line": 104, "stop_line": 0}
+{"uid": "192.168.0.5|5|104", "src_ip": "192.168.0.5", "session": 5, "user": "Loyane", "start_line": 0, "stop_line": 106}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "Loyane", "start_line": 107, "stop_line": 0}
+{"uid": "192.168.0.5|1|107", "src_ip": "192.168.0.5", "session": 1, "user": "Loyane", "start_line": 0, "stop_line": 109}
+{"uid": "192.168.0.5|2|110", "src_ip": "192.168.0.5", "session": 2, "user": "Loyane", "start_line": 110, "stop_line": 0}
+{"uid": "192.168.0.5|2|110", "src_ip": "192.168.0.5", "session": 2, "user": "Loyane", "start_line": 0, "stop_line": 111}
+{"uid": "192.168.0.5|4|112", "src_ip": "192.168.0.5", "session": 4, "user": "Loyane", "start_line": 112, "stop_line": 0}
+{"uid": "192.168.0.5|4|112", "src_ip": "192.168.0.5", "session": 4, "user": "Loyane", "start_line": 0, "stop_line": 117}
+{"uid": "192.168.0.4|1|118", "src_ip": "192.168.0.4", "session": 1, "user": "Loyane", "start_line": 118, "stop_line": 0}
+{"uid": "192.168.0.4|1|118", "src_ip": "192.168.0.4", "session": 1, "user": "Loyane", "start_line": 0, "stop_line": 121}
+{"uid": "192.168.0.4|1|122", "src_ip": "192.168.0.4", "session": 1, "user": "Loyane", "start_line": 122, "stop_line": 0}

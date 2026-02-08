@@ -1,0 +1,133 @@
+{"dt": "2026-02-07 13:44:19", "src_ip": "192.168.0.5", "src_port": 59612, "event": "stop", "user": "", "session": 0, "modo": "NIVEL 1", "ok_total": 0, "err_total": 0, "ts": 4901}
+{"dt": "2026-02-07 13:44:26", "src_ip": "192.168.0.5", "src_port": 59612, "event": "start", "user": "", "session": 1, "modo": "NIVEL 1", "ts": 11711}
+{"dt": "2026-02-07 13:44:29", "src_ip": "192.168.0.5", "src_port": 59612, "event": "err", "user": "", "session": 1, "modo": "NIVEL 1", "last_ms": 2311, "ok_total": 0, "err_total": 1, "ts": 14748}
+{"dt": "2026-02-07 13:44:37", "src_ip": "192.168.0.5", "src_port": 59612, "event": "err", "user": "", "session": 1, "modo": "NIVEL 1", "last_ms": 5855, "ok_total": 0, "err_total": 2, "ts": 22902}
+{"dt": "2026-02-07 13:44:44", "src_ip": "192.168.0.5", "src_port": 59612, "event": "ok", "user": "", "session": 1, "modo": "NIVEL 1", "last_ms": 1564, "avg_ms": 1564, "ok_total": 1, "err_total": 2, "ts": 29623}
+{"dt": "2026-02-07 13:44:50", "src_ip": "192.168.0.5", "src_port": 59612, "event": "stop", "user": "", "session": 1, "modo": "NIVEL 1", "ok_total": 1, "err_total": 2, "ts": 35991}
+{"dt": "2026-02-07 13:49:40", "src_ip": "192.168.0.5", "src_port": 59612, "event": "start", "user": "", "session": 2, "modo": "NIVEL 1", "ts": 324379}
+{"dt": "2026-02-07 13:49:44", "src_ip": "192.168.0.5", "src_port": 59612, "event": "err", "user": "", "session": 2, "modo": "NIVEL 1", "last_ms": 4357, "ok_total": 1, "err_total": 3, "ts": 329460}
+{"dt": "2026-02-07 13:49:55", "src_ip": "192.168.0.5", "src_port": 59612, "event": "ok", "user": "", "session": 2, "modo": "NIVEL 1", "last_ms": 8439, "avg_ms": 5001, "ok_total": 2, "err_total": 3, "ts": 340133}
+{"dt": "2026-02-07 13:49:57", "src_ip": "192.168.0.5", "src_port": 59612, "event": "ok", "user": "", "session": 2, "modo": "NIVEL 1", "last_ms": 340, "avg_ms": 3447, "ok_total": 3, "err_total": 3, "ts": 342713}
+{"dt": "2026-02-07 13:50:32", "src_ip": "192.168.0.5", "src_port": 59612, "event": "stop", "user": "", "session": 2, "modo": "NIVEL 1", "ok_total": 3, "err_total": 3, "ts": 377796}
+{"dt": "2026-02-07 14:03:53", "src_ip": "192.168.0.5", "src_port": 59056, "event": "stop", "user": "", "session": 0, "modo": "NIVEL 1", "ok_total": 0, "err_total": 0, "ts": 4898}
+{"dt": "2026-02-07 14:04:00", "src_ip": "192.168.0.5", "src_port": 59056, "event": "start", "user": "", "session": 1, "modo": "NIVEL 1", "ts": 12525}
+{"dt": "2026-02-07 14:04:05", "src_ip": "192.168.0.5", "src_port": 59056, "event": "err", "user": "", "session": 1, "modo": "NIVEL 1", "last_ms": 3678, "ok_total": 0, "err_total": 1, "ts": 16929}
+{"dt": "2026-02-07 14:04:12", "src_ip": "192.168.0.5", "src_port": 59056, "event": "ok", "user": "", "session": 1, "modo": "NIVEL 1", "last_ms": 5171, "avg_ms": 5171, "ok_total": 1, "err_total": 1, "ts": 24331}
+{"dt": "2026-02-07 14:04:14", "src_ip": "192.168.0.5", "src_port": 59056, "event": "err", "user": "", "session": 1, "modo": "NIVEL 1", "last_ms": 476, "ok_total": 1, "err_total": 2, "ts": 26641}
+{"dt": "2026-02-07 14:12:05", "src_ip": "192.168.0.5", "src_port": 59056, "event": "stop", "user": "", "session": 1, "modo": "NIVEL 1", "ok_total": 1, "err_total": 2, "ts": 496814}
+{"dt": "2026-02-07 14:12:11", "src_ip": "192.168.0.5", "src_port": 59056, "event": "start", "user": "", "session": 2, "modo": "MEMORIA", "ts": 502802}
+{"dt": "2026-02-07 14:12:24", "src_ip": "192.168.0.5", "src_port": 59056, "event": "stop", "user": "", "session": 2, "modo": "MEMORIA", "ok_total": 1, "err_total": 2, "ts": 516541}
+{"dt": "2026-02-07 14:13:11", "src_ip": "192.168.0.5", "src_port": 59056, "event": "start", "user": "", "session": 3, "modo": "MEMORIA", "ts": 563166}
+{"dt": "2026-02-07 14:13:15", "src_ip": "192.168.0.5", "src_port": 59056, "event": "err", "user": "", "session": 3, "modo": "MEMORIA", "last_ms": 1161, "ok_total": 1, "err_total": 3, "ts": 567546}
+{"dt": "2026-02-07 14:13:22", "src_ip": "192.168.0.5", "src_port": 59056, "event": "stop", "user": "", "session": 3, "modo": "MEMORIA", "ok_total": 1, "err_total": 3, "ts": 574153}
+{"dt": "2026-02-07 14:18:05", "src_ip": "192.168.0.5", "src_port": 59056, "event": "stop", "user": "", "session": 3, "modo": "MEMORIA", "ok_total": 1, "err_total": 3, "ts": 857208}
+{"dt": "2026-02-07 14:18:11", "src_ip": "192.168.0.5", "src_port": 59056, "event": "start", "user": "", "session": 4, "modo": "MEMORIA", "ts": 863496}
+{"dt": "2026-02-07 14:18:20", "src_ip": "192.168.0.5", "src_port": 59056, "event": "err", "user": "", "session": 4, "modo": "MEMORIA", "last_ms": 5736, "ok_total": 1, "err_total": 4, "ts": 872452}
+{"dt": "2026-02-07 14:18:26", "src_ip": "192.168.0.5", "src_port": 59056, "event": "err", "user": "", "session": 4, "modo": "MEMORIA", "last_ms": 477, "ok_total": 1, "err_total": 5, "ts": 877655}
+{"dt": "2026-02-07 14:18:31", "src_ip": "192.168.0.5", "src_port": 59056, "event": "stop", "user": "", "session": 4, "modo": "MEMORIA", "ok_total": 1, "err_total": 5, "ts": 883582}
+{"dt": "2026-02-07 14:18:36", "src_ip": "192.168.0.5", "src_port": 59056, "event": "start", "user": "", "session": 5, "modo": "MEMORIA RAPIDA", "ts": 888486}
+{"dt": "2026-02-07 14:18:41", "src_ip": "192.168.0.5", "src_port": 59056, "event": "err", "user": "", "session": 5, "modo": "MEMORIA RAPIDA", "last_ms": 2891, "ok_total": 1, "err_total": 6, "ts": 893297}
+{"dt": "2026-02-07 14:18:46", "src_ip": "192.168.0.5", "src_port": 59056, "event": "err", "user": "", "session": 5, "modo": "MEMORIA RAPIDA", "last_ms": 1849, "ok_total": 1, "err_total": 7, "ts": 898573}
+{"dt": "2026-02-07 14:18:53", "src_ip": "192.168.0.5", "src_port": 59056, "event": "stop", "user": "", "session": 5, "modo": "MEMORIA RAPIDA", "ok_total": 1, "err_total": 7, "ts": 905321}
+{"dt": "2026-02-07 14:44:30", "src_ip": "192.168.0.5", "src_port": 61602, "event": "stop", "user": "", "session": 0, "modo": "NIVEL 1", "ok_total": 0, "err_total": 0, "ts": 4967}
+{"dt": "2026-02-07 14:44:35", "src_ip": "192.168.0.5", "src_port": 61602, "event": "start", "user": "", "session": 1, "modo": "NIVEL 1", "ts": 9941}
+{"dt": "2026-02-07 14:45:06", "src_ip": "192.168.0.5", "src_port": 61602, "event": "err", "user": "", "session": 1, "modo": "NIVEL 1", "last_ms": 30690, "ok_total": 0, "err_total": 1, "ts": 41360}
+{"dt": "2026-02-07 14:45:14", "src_ip": "192.168.0.5", "src_port": 61602, "event": "err", "user": "", "session": 1, "modo": "NIVEL 1", "last_ms": 5854, "ok_total": 0, "err_total": 2, "ts": 49445}
+{"dt": "2026-02-07 14:45:19", "src_ip": "192.168.0.5", "src_port": 61602, "event": "ok", "user": "", "session": 1, "modo": "NIVEL 1", "last_ms": 1904, "avg_ms": 1904, "ok_total": 1, "err_total": 2, "ts": 54057}
+{"dt": "2026-02-07 14:45:24", "src_ip": "192.168.0.5", "src_port": 61602, "event": "err", "user": "", "session": 1, "modo": "NIVEL 1", "last_ms": 3947, "ok_total": 1, "err_total": 3, "ts": 59839}
+{"dt": "2026-02-07 14:45:27", "src_ip": "192.168.0.5", "src_port": 61602, "event": "stop", "user": "", "session": 1, "modo": "NIVEL 1", "ok_total": 1, "err_total": 3, "ts": 62586}
+{"dt": "2026-02-07 14:50:00", "src_ip": "192.168.0.5", "src_port": 61602, "event": "start", "user": "", "session": 2, "modo": "NIVEL 1", "ts": 335798}
+{"dt": "2026-02-07 14:50:33", "src_ip": "192.168.0.5", "src_port": 61602, "event": "stop", "user": "", "session": 2, "modo": "NIVEL 1", "ok_total": 1, "err_total": 3, "ts": 367994}
+{"dt": "2026-02-07 14:52:47", "src_ip": "192.168.0.5", "src_port": 61602, "event": "start", "user": "", "session": 3, "modo": "NIVEL 1", "ts": 502282}
+{"dt": "2026-02-07 14:52:49", "src_ip": "192.168.0.5", "src_port": 61602, "event": "ok", "user": "", "session": 3, "modo": "NIVEL 1", "last_ms": 1496, "avg_ms": 1700, "ok_total": 2, "err_total": 3, "ts": 504503}
+{"dt": "2026-02-07 14:52:53", "src_ip": "192.168.0.5", "src_port": 61602, "event": "ok", "user": "", "session": 3, "modo": "NIVEL 1", "last_ms": 1428, "avg_ms": 1609, "ok_total": 3, "err_total": 3, "ts": 507965}
+{"dt": "2026-02-07 14:52:54", "src_ip": "192.168.0.5", "src_port": 61602, "event": "stop", "user": "", "session": 3, "modo": "NIVEL 1", "ok_total": 3, "err_total": 3, "ts": 509700}
+{"dt": "2026-02-07 15:04:41", "src_ip": "192.168.0.5", "src_port": 61602, "event": "start", "user": "", "session": 4, "modo": "NIVEL 1", "ts": 1216454}
+{"dt": "2026-02-07 15:05:29", "src_ip": "192.168.0.5", "src_port": 61602, "event": "err", "user": "", "session": 4, "modo": "NIVEL 1", "last_ms": 47642, "ok_total": 3, "err_total": 4, "ts": 1264821}
+{"dt": "2026-02-07 15:05:34", "src_ip": "192.168.0.5", "src_port": 61602, "event": "err", "user": "", "session": 4, "modo": "NIVEL 1", "last_ms": 2245, "ok_total": 3, "err_total": 5, "ts": 1269365}
+{"dt": "2026-02-07 15:05:38", "src_ip": "192.168.0.5", "src_port": 61602, "event": "ok", "user": "", "session": 4, "modo": "NIVEL 1", "last_ms": 1496, "avg_ms": 1581, "ok_total": 4, "err_total": 5, "ts": 1273501}
+{"dt": "2026-02-07 15:05:40", "src_ip": "192.168.0.5", "src_port": 61602, "event": "stop", "user": "", "session": 4, "modo": "NIVEL 1", "ok_total": 4, "err_total": 5, "ts": 1275440}
+{"dt": "2026-02-07 15:22:42", "src_ip": "192.168.0.5", "src_port": 61602, "event": "start", "user": "", "session": 5, "modo": "NIVEL 1", "ts": 2297427}
+{"dt": "2026-02-07 15:22:48", "src_ip": "192.168.0.5", "src_port": 61602, "event": "stop", "user": "", "session": 5, "modo": "NIVEL 1", "ok_total": 4, "err_total": 5, "ts": 2303637}
+{"dt": "2026-02-07 15:22:57", "src_ip": "192.168.0.5", "src_port": 61602, "event": "start", "user": "", "session": 6, "modo": "NIVEL 1", "ts": 2312146}
+{"dt": "2026-02-07 15:23:05", "src_ip": "192.168.0.5", "src_port": 61602, "event": "ok", "user": "", "session": 6, "modo": "NIVEL 1", "last_ms": 7554, "avg_ms": 2775, "ok_total": 5, "err_total": 5, "ts": 2320424}
+{"dt": "2026-02-07 15:23:15", "src_ip": "192.168.0.5", "src_port": 61602, "event": "ok", "user": "", "session": 6, "modo": "NIVEL 1", "last_ms": 8238, "avg_ms": 3686, "ok_total": 6, "err_total": 5, "ts": 2330495}
+{"dt": "2026-02-07 15:23:18", "src_ip": "192.168.0.5", "src_port": 61602, "event": "ok", "user": "", "session": 6, "modo": "NIVEL 1", "last_ms": 1360, "avg_ms": 3353, "ok_total": 7, "err_total": 5, "ts": 2333688}
+{"dt": "2026-02-07 15:23:21", "src_ip": "192.168.0.5", "src_port": 61602, "event": "stop", "user": "", "session": 6, "modo": "NIVEL 1", "ok_total": 7, "err_total": 5, "ts": 2336447}
+{"dt": "2026-02-07 15:23:58", "src_ip": "192.168.0.5", "src_port": 61602, "event": "start", "user": "", "session": 7, "modo": "NIVEL 1", "ts": 2373254}
+{"dt": "2026-02-07 15:24:10", "src_ip": "192.168.0.5", "src_port": 61602, "event": "stop", "user": "", "session": 7, "modo": "NIVEL 1", "ok_total": 7, "err_total": 5, "ts": 2385519}
+{"dt": "2026-02-07 15:25:33", "src_ip": "192.168.0.5", "src_port": 61602, "event": "start", "user": "", "session": 8, "modo": "NIVEL 1", "ts": 2468650}
+{"dt": "2026-02-07 15:25:37", "src_ip": "192.168.0.5", "src_port": 61602, "event": "ok", "user": "", "session": 8, "modo": "NIVEL 1", "last_ms": 3130, "avg_ms": 3325, "ok_total": 8, "err_total": 5, "ts": 2472504}
+{"dt": "2026-02-07 15:25:40", "src_ip": "192.168.0.5", "src_port": 61602, "event": "stop", "user": "", "session": 8, "modo": "NIVEL 1", "ok_total": 8, "err_total": 5, "ts": 2475124}
+{"dt": "2026-02-07 16:28:14", "src_ip": "192.168.0.5", "src_port": 59566, "event": "start", "user": "", "session": 1, "modo": "NIVEL 1", "ts": 23406}
+{"raw": "TEST", "dt": "2026-02-07 18:17:03", "src_ip": "127.0.0.1", "src_port": 52015}
+{"raw": "TEST", "dt": "2026-02-07 18:17:08", "src_ip": "127.0.0.1", "src_port": 57868}
+{"event": "start", "user": "SEM_USER", "session": 1, "modo": "NIVEL 1", "ts": 11455, "dt": "2026-02-07 21:40:48", "src_ip": "192.168.0.5", "src_port": 49556}
+{"event": "stop", "user": "SEM_USER", "session": 1, "modo": "NIVEL 1", "ok_total": 0, "err_total": 0, "total_ms": 39253, "ts": 50708, "dt": "2026-02-07 21:41:27", "src_ip": "192.168.0.5", "src_port": 49556}
+{"event": "start", "user": "SEM_USER", "session": 2, "modo": "MEMORIA", "ts": 66417, "dt": "2026-02-07 21:41:43", "src_ip": "192.168.0.5", "src_port": 49556}
+{"event": "stop", "user": "SEM_USER", "session": 2, "modo": "MEMORIA", "ok_total": 0, "err_total": 0, "total_ms": 42358, "ts": 108775, "dt": "2026-02-07 21:42:25", "src_ip": "192.168.0.5", "src_port": 49556}
+{"event": "start", "user": "SEM_USER", "session": 3, "modo": "MEMORIA", "ts": 947737, "dt": "2026-02-07 21:56:24", "src_ip": "192.168.0.5", "src_port": 49556}
+{"event": "start", "user": "SEM_USER", "session": 1, "modo": "NIVEL 1", "ts": 14701, "dt": "2026-02-07 21:59:23", "src_ip": "192.168.0.5", "src_port": 50895}
+{"event": "ok", "user": "SEM_USER", "session": 1, "modo": "NIVEL 1", "last_ms": 3334, "avg_ms": 3334, "ok_total": 1, "err_total": 0, "ts": 226723, "dt": "2026-02-07 22:02:55", "src_ip": "192.168.0.5", "src_port": 50895}
+{"event": "start", "user": "SEM_USER", "session": 1, "modo": "NIVEL 1", "ts": 298951, "dt": "2026-02-07 22:37:52", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "ok", "user": "SEM_USER", "session": 1, "modo": "NIVEL 1", "last_ms": 5575, "avg_ms": 18365, "ok_total": 2, "err_total": 0, "ts": 338239, "dt": "2026-02-07 22:38:31", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "err", "user": "DAVI", "session": 1, "modo": "NIVEL 1", "last_ms": 6395, "ok_total": 2, "err_total": 1, "ts": 1473575, "dt": "2026-02-07 22:57:27", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "ok", "user": "DAVI", "session": 1, "modo": "NIVEL 1", "last_ms": 6397, "avg_ms": 14375, "ok_total": 3, "err_total": 1, "ts": 1482201, "dt": "2026-02-07 22:57:35", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "ok", "user": "DAVI", "session": 1, "modo": "NIVEL 1", "last_ms": 8095, "avg_ms": 12805, "ok_total": 4, "err_total": 1, "ts": 1492126, "dt": "2026-02-07 22:57:45", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "stop", "user": "DAVI", "session": 1, "modo": "NIVEL 1", "ok_total": 4, "err_total": 1, "total_ms": 1230499, "ts": 1529450, "dt": "2026-02-07 22:58:22", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "start", "user": "DAVI", "session": 2, "modo": "NIVEL 1", "ts": 1992757, "dt": "2026-02-07 23:06:07", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "err", "user": "DAVI", "session": 2, "modo": "NIVEL 1", "last_ms": 4558, "ok_total": 0, "err_total": 1, "ts": 1998040, "dt": "2026-02-07 23:06:12", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "ok", "user": "DAVI", "session": 2, "modo": "NIVEL 1", "last_ms": 3331, "avg_ms": 3331, "ok_total": 1, "err_total": 1, "ts": 2003604, "dt": "2026-02-07 23:06:18", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "err", "user": "DAVI", "session": 2, "modo": "NIVEL 1", "last_ms": 2924, "ok_total": 1, "err_total": 2, "ts": 2008361, "dt": "2026-02-07 23:06:22", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "ok", "user": "DAVI", "session": 2, "modo": "NIVEL 1", "last_ms": 2313, "avg_ms": 2822, "ok_total": 2, "err_total": 2, "ts": 2012906, "dt": "2026-02-07 23:06:27", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "err", "user": "DAVI", "session": 2, "modo": "NIVEL 1", "last_ms": 1019, "ok_total": 2, "err_total": 3, "ts": 2016031, "dt": "2026-02-07 23:06:30", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "stop", "user": "DAVI", "session": 2, "modo": "NIVEL 1", "ok_total": 2, "err_total": 3, "total_ms": 32055, "ts": 2024812, "dt": "2026-02-07 23:06:39", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "start", "user": "DAVI", "session": 3, "modo": "NIVEL 1", "ts": 2033721, "dt": "2026-02-07 23:06:48", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "ok", "user": "DAVI", "session": 3, "modo": "NIVEL 1", "last_ms": 1363, "avg_ms": 1363, "ok_total": 1, "err_total": 0, "ts": 2035810, "dt": "2026-02-07 23:06:50", "src_ip": "192.168.0.5", "src_port": 64472}
+{"event": "start", "user": "DAVI", "session": 1, "modo": "NIVEL 1", "ts": 603520, "dt": "2026-02-07 23:31:35", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "ok", "user": "DAVI", "session": 1, "modo": "NIVEL 1", "last_ms": 4626, "avg_ms": 4626, "ok_total": 1, "err_total": 0, "ts": 608871, "dt": "2026-02-07 23:31:40", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "err", "user": "DAVI", "session": 1, "modo": "NIVEL 1", "last_ms": 10545, "ok_total": 1, "err_total": 1, "ts": 621250, "dt": "2026-02-07 23:31:52", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "stop", "user": "DAVI", "session": 1, "modo": "NIVEL 1", "ok_total": 1, "err_total": 1, "total_ms": 25016, "ts": 628536, "dt": "2026-02-07 23:32:00", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "start", "user": "DAVI", "session": 2, "modo": "MEMORIA", "ts": 697856, "dt": "2026-02-07 23:33:09", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "err", "user": "DAVI", "session": 2, "modo": "MEMORIA", "last_ms": 5186, "ok_total": 0, "err_total": 1, "ts": 705564, "dt": "2026-02-07 23:33:17", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "err", "user": "DAVI", "session": 2, "modo": "MEMORIA", "last_ms": 2184, "ok_total": 0, "err_total": 2, "ts": 1360652, "dt": "2026-02-07 23:44:12", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "err", "user": "DAVI", "session": 2, "modo": "MEMORIA", "last_ms": 2735, "ok_total": 0, "err_total": 3, "ts": 1367414, "dt": "2026-02-07 23:44:19", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "stop", "user": "DAVI", "session": 2, "modo": "MEMORIA", "ok_total": 0, "err_total": 3, "total_ms": 680078, "ts": 1377934, "dt": "2026-02-07 23:44:29", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "start", "user": "DAVI", "session": 3, "modo": "MEMORIA", "ts": 1421701, "dt": "2026-02-07 23:45:13", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "err", "user": "DAVI", "session": 3, "modo": "MEMORIA", "last_ms": 823, "ok_total": 0, "err_total": 1, "ts": 1425744, "dt": "2026-02-07 23:45:17", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "err", "user": "DAVI", "session": 3, "modo": "MEMORIA", "last_ms": 480, "ok_total": 0, "err_total": 2, "ts": 1430951, "dt": "2026-02-07 23:45:22", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "err", "user": "DAVI", "session": 3, "modo": "MEMORIA", "last_ms": 822, "ok_total": 0, "err_total": 3, "ts": 1437315, "dt": "2026-02-07 23:45:29", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "stop", "user": "DAVI", "session": 3, "modo": "MEMORIA", "ok_total": 0, "err_total": 3, "total_ms": 22151, "ts": 1443852, "dt": "2026-02-07 23:45:35", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "start", "user": "DAVI", "session": 4, "modo": "MEMORIA", "ts": 1481084, "dt": "2026-02-07 23:46:12", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "err", "user": "DAVI", "session": 4, "modo": "MEMORIA", "last_ms": 481, "ok_total": 0, "err_total": 1, "ts": 1485485, "dt": "2026-02-07 23:46:17", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "stop", "user": "DAVI", "session": 4, "modo": "MEMORIA", "ok_total": 0, "err_total": 1, "total_ms": 12638, "ts": 1493722, "dt": "2026-02-07 23:46:25", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "start", "user": "DAVI", "session": 5, "modo": "MEMORIA", "ts": 1597295, "dt": "2026-02-07 23:48:09", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "err", "user": "DAVI", "session": 5, "modo": "MEMORIA", "last_ms": 1773, "ok_total": 0, "err_total": 1, "ts": 1602989, "dt": "2026-02-07 23:48:14", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "stop", "user": "DAVI", "session": 5, "modo": "MEMORIA", "ok_total": 0, "err_total": 1, "total_ms": 13250, "ts": 1610545, "dt": "2026-02-07 23:48:22", "src_ip": "192.168.0.5", "src_port": 64811}
+{"event": "start", "user": "SEM_USER", "session": 1, "modo": "NIVEL 1", "ts": 9731, "dt": "2026-02-08 00:02:32", "src_ip": "192.168.0.5", "src_port": 58839}
+{"event": "ok", "user": "SEM_USER", "session": 1, "modo": "NIVEL 1", "last_ms": 2108, "avg_ms": 2108, "ok_total": 1, "err_total": 0, "ts": 12565, "dt": "2026-02-08 00:02:35", "src_ip": "192.168.0.5", "src_port": 58839}
+{"event": "stop", "user": "SEM_USER", "session": 1, "modo": "NIVEL 1", "ok_total": 1, "err_total": 0, "total_ms": 9382, "ts": 19113, "dt": "2026-02-08 00:02:42", "src_ip": "192.168.0.5", "src_port": 58839}
+{"event": "start", "user": "SEM_USER", "session": 2, "modo": "NIVEL 1", "ts": 52411, "dt": "2026-02-08 00:03:15", "src_ip": "192.168.0.5", "src_port": 58839}
+{"event": "stop", "user": "SEM_USER", "session": 2, "modo": "NIVEL 1", "ok_total": 0, "err_total": 0, "total_ms": 22814, "ts": 75225, "dt": "2026-02-08 00:03:38", "src_ip": "192.168.0.5", "src_port": 58839}
+{"event": "start", "user": "SEM_USER", "session": 4, "modo": "NIVEL 1", "ts": 179994, "dt": "2026-02-08 00:36:44", "src_ip": "192.168.0.5", "src_port": 50934}
+{"event": "ok", "user": "SEM_USER", "session": 4, "modo": "NIVEL 1", "last_ms": 1472, "avg_ms": 1472, "ok_total": 1, "err_total": 0, "ts": 182142, "dt": "2026-02-08 00:36:46", "src_ip": "192.168.0.5", "src_port": 50934}
+{"event": "ok", "user": "SEM_USER", "session": 4, "modo": "NIVEL 1", "last_ms": 2128, "avg_ms": 1800, "ok_total": 2, "err_total": 0, "ts": 185925, "dt": "2026-02-08 00:36:50", "src_ip": "192.168.0.5", "src_port": 50934}
+{"event": "ok", "user": "SEM_USER", "session": 4, "modo": "NIVEL 1", "last_ms": 1164, "avg_ms": 1588, "ok_total": 3, "err_total": 0, "ts": 188743, "dt": "2026-02-08 00:36:53", "src_ip": "192.168.0.5", "src_port": 50934}
+{"event": "err", "user": "SEM_USER", "session": 4, "modo": "NIVEL 1", "last_ms": 964, "ok_total": 3, "err_total": 1, "ts": 191363, "dt": "2026-02-08 00:36:55", "src_ip": "192.168.0.5", "src_port": 50934}
+{"event": "stop", "user": "SEM_USER", "session": 4, "modo": "NIVEL 1", "ok_total": 3, "err_total": 1, "total_ms": 16151, "ts": 196145, "dt": "2026-02-08 00:37:00", "src_ip": "192.168.0.5", "src_port": 50934}
+{"event": "start", "user": "", "session": 1, "modo": "NIVEL 1", "ts": 70802, "dt": "2026-02-08 16:01:22", "src_ip": "192.168.0.4", "src_port": 60565}
+{"event": "ok", "user": "", "session": 1, "modo": "NIVEL 1", "mic_freq": 234.4, "mic_int": 0.091, "mic_type": 0, "last_ms": 1512, "avg_ms": 1512, "ok_total": 1, "err_total": 0, "ts": 72991, "dt": "2026-02-08 16:01:24", "src_ip": "192.168.0.4", "src_port": 60565}
+{"event": "ok", "user": "", "session": 1, "modo": "NIVEL 1", "mic_freq": 78.1, "mic_int": 0.181, "mic_type": 0, "last_ms": 3066, "avg_ms": 2289, "ok_total": 2, "err_total": 0, "ts": 77712, "dt": "2026-02-08 16:01:29", "src_ip": "192.168.0.4", "src_port": 60565}
+{"event": "stop", "user": "", "session": 1, "modo": "NIVEL 1", "mic_freq": 78.1, "mic_int": 0.225, "mic_type": 0, "ok_total": 2, "err_total": 0, "total_ms": 11374, "ts": 82176, "dt": "2026-02-08 16:01:34", "src_ip": "192.168.0.4", "src_port": 60565}
+{"event": "start", "user": "", "session": 1, "modo": "NIVEL 1", "ts": 88866, "dt": "2026-02-08 17:06:32", "src_ip": "192.168.0.4", "src_port": 59282}
+{"event": "ok", "user": "", "session": 1, "modo": "NIVEL 1", "mic_freq": 78.1, "mic_int": 0.242, "mic_type": 0, "last_ms": 3801, "avg_ms": 3801, "ok_total": 1, "err_total": 0, "ts": 93345, "dt": "2026-02-08 17:06:36", "src_ip": "192.168.0.4", "src_port": 59282}
+{"event": "ok", "user": "", "session": 1, "modo": "NIVEL 1", "mic_freq": 78.1, "mic_int": 0.485, "mic_type": 0, "last_ms": 3213, "avg_ms": 3507, "ok_total": 2, "err_total": 0, "ts": 99057, "dt": "2026-02-08 17:06:42", "src_ip": "192.168.0.4", "src_port": 59282}
+{"event": "err", "user": "", "session": 1, "modo": "NIVEL 1", "mic_freq": 78.1, "mic_int": 0.143, "mic_type": 0, "last_ms": 2289, "ok_total": 2, "err_total": 1, "ts": 103458, "dt": "2026-02-08 17:06:46", "src_ip": "192.168.0.4", "src_port": 59282}
+{"event": "err", "user": "", "session": 1, "modo": "NIVEL 1", "mic_freq": 78.1, "mic_int": 2.215, "mic_type": 1, "last_ms": 4418, "ok_total": 2, "err_total": 2, "ts": 114120, "dt": "2026-02-08 17:06:57", "src_ip": "192.168.0.4", "src_port": 59282}
+{"event": "ok", "user": "", "session": 1, "modo": "MEMORIA", "mic_freq": 78.1, "mic_int": 0.482, "mic_type": 0, "last_ms": 4458, "avg_ms": 3824, "ok_total": 3, "err_total": 2, "ts": 159917, "dt": "2026-02-08 17:07:43", "src_ip": "192.168.0.4", "src_port": 59282}
+{"event": "ok", "user": "", "session": 1, "modo": "MEMORIA", "mic_freq": 78.1, "mic_int": 0.474, "mic_type": 0, "last_ms": 1473, "avg_ms": 3236, "ok_total": 4, "err_total": 2, "ts": 164840, "dt": "2026-02-08 17:07:47", "src_ip": "192.168.0.4", "src_port": 59282}
+{"event": "err", "user": "", "session": 1, "modo": "MEMORIA", "mic_freq": 78.1, "mic_int": 0.393, "mic_type": 0, "last_ms": 6598, "ok_total": 4, "err_total": 3, "ts": 183221, "dt": "2026-02-08 17:08:06", "src_ip": "192.168.0.4", "src_port": 59282}
+{"event": "err", "user": "", "session": 1, "modo": "MEMORIA", "mic_freq": 78.1, "mic_int": 0.885, "mic_type": 0, "last_ms": 497, "ok_total": 4, "err_total": 4, "ts": 188268, "dt": "2026-02-08 17:08:11", "src_ip": "192.168.0.4", "src_port": 59282}
+{"event": "err", "user": "", "session": 1, "modo": "MEMORIA", "mic_freq": 78.1, "mic_int": 0.211, "mic_type": 0, "last_ms": 2557, "ok_total": 4, "err_total": 5, "ts": 195375, "dt": "2026-02-08 17:08:18", "src_ip": "192.168.0.4", "src_port": 59282}
+{"event": "err", "user": "", "session": 1, "modo": "MEMORIA", "mic_freq": 78.1, "mic_int": 0.157, "mic_type": 0, "last_ms": 577, "ok_total": 4, "err_total": 6, "ts": 200502, "dt": "2026-02-08 17:08:23", "src_ip": "192.168.0.4", "src_port": 59282}
+{"event": "ok", "user": "", "session": 1, "modo": "MEMORIA", "mic_freq": 78.1, "mic_int": 2.273, "mic_type": 1, "last_ms": 3453, "avg_ms": 3279, "ok_total": 5, "err_total": 6, "ts": 209080, "dt": "2026-02-08 17:08:32", "src_ip": "192.168.0.4", "src_port": 59282}

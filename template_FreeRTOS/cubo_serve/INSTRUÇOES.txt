@@ -1,0 +1,12 @@
+cd C:\Users\i5\Pictures\template_FreeRTOS\cubo_serve
+python udp_server.py
+
+
+cd C:\Users\i5\Pictures\template_FreeRTOS\cubo_serve
+type logs\udp_log.jsonl
+
+
+cd C:\Users\i5\Pictures\template_FreeRTOS\cubo_serve
+python serve_reports.py
+
+iNSTRUÇOES PARA ABRIR O SERVIDOR UDP NO CMD

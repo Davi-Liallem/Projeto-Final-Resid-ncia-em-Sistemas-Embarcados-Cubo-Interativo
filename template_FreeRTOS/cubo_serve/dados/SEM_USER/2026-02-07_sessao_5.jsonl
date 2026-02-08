@@ -1,0 +1,5 @@
+{"event": "start", "user": "", "session": 5, "modo": "MEMORIA", "ts": 1971992, "_rx_time": "2026-02-07 17:02:10", "_rx_from": "192.168.0.5:55019"}
+{"event": "err", "user": "", "session": 5, "modo": "MEMORIA", "last_ms": 1844, "ok_total": 0, "err_total": 2, "ts": 1976358, "_rx_time": "2026-02-07 17:02:14", "_rx_from": "192.168.0.5:55019"}
+{"event": "err", "user": "", "session": 5, "modo": "MEMORIA", "last_ms": 1498, "ok_total": 0, "err_total": 3, "ts": 1981884, "_rx_time": "2026-02-07 17:02:20", "_rx_from": "192.168.0.5:55019"}
+{"event": "err", "user": "", "session": 5, "modo": "MEMORIA", "last_ms": 410, "ok_total": 0, "err_total": 4, "ts": 1986321, "_rx_time": "2026-02-07 17:02:24", "_rx_from": "192.168.0.5:55019"}
+{"event": "err", "user": "", "session": 5, "modo": "MEMORIA", "last_ms": 479, "ok_total": 0, "err_total": 5, "ts": 1995526, "_rx_time": "2026-02-07 17:02:33", "_rx_from": "192.168.0.5:55019"}

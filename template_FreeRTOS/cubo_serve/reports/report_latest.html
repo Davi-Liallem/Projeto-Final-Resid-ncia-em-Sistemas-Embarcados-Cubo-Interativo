@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, max-age=0"/>
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <title>Relatórios — Cubo Terapêutico (UDP)</title>
+  <style>
+    :root { --bg:#0b1020; --text:#eaf0ff; --muted:#9aa4c3; --line:rgba(255,255,255,.08); }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--text)}
+    a{color:#8cc6ff;text-decoration:none} a:hover{text-decoration:underline}
+    .wrap{max-width:900px;margin:0 auto;padding:22px}
+    header{display:flex;gap:12px;justify-content:space-between;align-items:flex-end;flex-wrap:wrap}
+    h1{margin:0;font-size:22px}
+    .meta{color:var(--muted);font-size:13px;text-align:right}
+    .topbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between;
+      margin:16px 0;padding:12px;border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.04)}
+    input{padding:8px 10px;border-radius:10px;border:1px solid var(--line);background:rgba(0,0,0,.25);color:var(--text);outline:none;min-width:240px}
+    .btn{padding:8px 12px;border-radius:10px;border:1px solid var(--line);background:rgba(255,255,255,.06);color:var(--text);cursor:pointer;font-weight:800}
+    .btn:hover{background:rgba(255,255,255,.10)}
+    table{width:100%;border-collapse:collapse;margin-top:10px}
+    th,td{border-bottom:1px solid var(--line);padding:10px 8px;text-align:left}
+    th{color:var(--muted);font-size:13px}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .hint{color:var(--muted);font-size:12px}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>Relatórios por usuário</h1>
+        <div class="hint"><a href="/live">Ao vivo</a></div>
+      </div>
+      <div class="meta">Gerado em: <span class="mono">2026-02-07 23:05:30</span></div>
+    </header>
+
+    <div class="topbar">
+      <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+        <input id="q" placeholder="Filtrar usuário..." oninput="applyFilter()"/>
+        <button class="btn" onclick="location.reload()">Atualizar</button>
+      </div>
+      <div class="hint">Usuários: <b>2</b></div>
+    </div>
+
+    <table id="tbl">
+      <thead><tr><th>Usuário</th><th>Última atividade</th><th>Sessões</th></tr></thead>
+      <tbody>
+        
+        <tr>
+          <td><a href="users/davi.html">DAVI</a></td>
+          <td class="mono">2026-02-07 22:58:22</td>
+          <td class="mono">1</td>
+        </tr>
+        
+        <tr>
+          <td><a href="users/sem_user.html">SEM_USER</a></td>
+          <td class="mono">2026-02-07 15:25:40</td>
+          <td class="mono">13</td>
+        </tr>
+        
+      </tbody>
+    </table>
+  </div>
+
+<script>
+function applyFilter() {
+  const q = (document.getElementById("q").value || "").toLowerCase().trim();
+  const rows = document.querySelectorAll("#tbl tbody tr");
+  rows.forEach(r => {
+    const name = (r.children[0].innerText || "").toLowerCase();
+    r.style.display = (!q || name.includes(q)) ? "" : "none";
+  });
+}
+</script>
+</body>
+</html>

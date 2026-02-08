@@ -1,0 +1,2 @@
+{"event": "start", "user": "", "session": 2, "modo": "NIVEL 1", "ts": 76995, "_rx_time": "2026-02-07 16:30:35", "_rx_from": "192.168.0.5:55019"}
+{"event": "err", "user": "", "session": 2, "modo": "NIVEL 1", "last_ms": 3060, "ok_total": 0, "err_total": 1, "ts": 80784, "_rx_time": "2026-02-07 16:30:38", "_rx_from": "192.168.0.5:55019"}

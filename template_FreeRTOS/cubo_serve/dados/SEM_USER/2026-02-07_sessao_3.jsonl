@@ -1,0 +1,3 @@
+{"event": "start", "user": "", "session": 3, "modo": "NIVEL 1", "ts": 114702, "_rx_time": "2026-02-07 16:31:12", "_rx_from": "192.168.0.5:55019"}
+{"event": "ok", "user": "", "session": 3, "modo": "NIVEL 1", "last_ms": 1700, "avg_ms": 1700, "ok_total": 1, "err_total": 1, "ts": 117127, "_rx_time": "2026-02-07 16:31:15", "_rx_from": "192.168.0.5:55019"}
+{"event": "stop", "user": "", "session": 3, "modo": "NIVEL 1", "ok_total": 1, "err_total": 1, "ts": 142924, "_rx_time": "2026-02-07 16:31:41", "_rx_from": "192.168.0.5:55019"}
