@@ -1,39 +1,33 @@
 # Projeto-Final-Residência-em-Sistemas-Embarcados-Cubo-Interativo
-Sistema embarcado interativo com FreeRTOS e IoT para monitoramento de foco e emoções
+# Cubo Interativo de Foco e Emoções
 
-📘 Projeto Final – Cubo Interativo de Foco e Emoções
+Projeto desenvolvido no contexto do Programa EmbarcaTech, com o objetivo de criar um dispositivo interativo baseado em sistemas embarcados e Internet das Coisas (IoT), voltado ao estímulo do foco e da interação do usuário.
 
-Este repositório apresenta o desenvolvimento de um sistema embarcado interativo, utilizando FreeRTOS e Internet das Coisas (IoT), com o objetivo de apoiar atividades de estímulo ao foco, atenção e respostas emocionais por meio de interações físicas e sensoriais.
-O projeto foi desenvolvido como Projeto Final da Residência em Sistemas Embarcados, integrando hardware, firmware e serviços de monitoramento local e em nuvem.
+## 📌 Descrição Geral
+O Cubo Interativo utiliza a placa BitDogLab (RP2040 W), sensores de movimento e som, atuadores visuais e sonoros, além de comunicação local e em nuvem, para coletar dados e fornecer feedback em tempo real.
 
-🧠 Funcionalidades Principais
+O firmware é desenvolvido em linguagem C/C++ e utiliza o sistema operacional de tempo real FreeRTOS para gerenciamento de tarefas concorrentes.
 
-Detecção de orientação do cubo (6 faces) via MPU6050
-Modos de jogo interativos (nível 1, memória normal e memória rápida)
-Aquisição de sinais de áudio por microfone (ADC + DMA)
-Feedback visual (LEDs) e sonoro (buzzer)
-Interface local via display OLED SSD1306
-Monitoramento:
-Local (Servidor UDP)
-Remoto (ThingsBoard via MQTT)
+## 🧠 Funcionalidades
+- Detecção de orientação espacial do cubo (MPU6050)
+- Jogos interativos com níveis e modos
+- Feedback visual por LEDs e display OLED
+- Feedback sonoro por buzzer
+- Monitoramento local via UDP
+- Envio de telemetria via MQTT para ThingsBoard
 
-🧩 Arquitetura do Sistema
+## 🧩 Arquitetura
+- Microcontrolador: RP2040 W (BitDogLab / Pico W)
+- Sistema operacional: FreeRTOS
+- Sensores: MPU6050, microfone analógico
+- Protocolos: UDP (local), MQTT (nuvem)
 
-Microcontrolador: RP2040 (Raspberry Pi Pico W)
-Sistema Operacional: FreeRTOS
-Protocolos: I2C, GPIO, ADC, UDP, MQTT, Wi-Fi
-Plataformas de monitoramento:
-Servidor local em Python (UDP)
-Plataforma IoT ThingsBoard (nuvem)
+## 📂 Estrutura do Repositório
+- `firmware/` – Código-fonte do sistema embarcado
+- `docs/` – Diagramas e imagens do projeto
 
-📂 Organização do Repositório
-
-app/ – Lógica principal do jogo
-microfone/ – Aquisição e processamento de áudio
-FreeRTOS/ – Kernel do sistema operacional
-cubo_serve/ – Servidor UDP local e relatórios web
-lib/ – Bibliotecas auxiliares
-Imagens do Projeto/ – Fotos do protótipo e interfaces
+## 📜 Licença
+Projeto de caráter acadêmico e experimental.
 
 👨‍💻 Autor
 Davi Liallem Passos dos Santos
